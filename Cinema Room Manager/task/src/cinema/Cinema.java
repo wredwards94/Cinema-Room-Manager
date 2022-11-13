@@ -93,6 +93,8 @@ public class Cinema {
         System.out.println("Enter a seat number in that row:");
         seatNum = input.nextInt();
 
+        /* prompting the user to re-enter row & seat info if selection is out of the parameters
+        or if the seat has already been purchased */
         while (rowNum <= 0 || rowNum > rows || seats <= 0 || seatNum > seats || 
                 cinemaUpdated[rowNum - 1][seatNum - 1].contains("B")) {
             if (rowNum <= 0 || rowNum > rows || seats <= 0 || seatNum > seats) {
