@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Array exceptions/Out of bounds/out/
+/Topics/Array exceptions/Out of bounds/out/production/classes/
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Create a full name/out/
+/Topics/Functional decomposition/Create a full name/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Iterating over arrays/The index of the first max in an array/out/
+/Topics/Iterating over arrays/The index of the first max in an array/out/production/classes/
+/Topics/NPE/Avoid NPE/out/
+/Topics/NPE/Avoid NPE/out/production/classes/
+/Topics/NPE/Return empty string when argument is null/out/
+/Topics/NPE/Return empty string when argument is null/out/production/classes/

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/A line that throws an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/How to improve a compound program" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Items of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Check if an array contains two numbers" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Does an array contain N" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The minimum value of an array" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Triples" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Code that throws an exception" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Lines that may throw NPE" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Theory" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Unknown input" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Where NPE may occur" />
+            <option value="$PROJECT_DIR$/Topics/NPE/Where NPE might occur" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Check the code" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
