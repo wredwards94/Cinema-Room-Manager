@@ -6,8 +6,8 @@ public class Cinema {
     public static void main(String[] args) {
         // Write your code here
         Scanner scanner = new Scanner(System.in);
-        int rows = 0;
-        int seats = 0;
+        int rows;
+        int seats;
         String openSeat = "S";
 
         // getting input for rows & number of seats per row
@@ -23,7 +23,7 @@ public class Cinema {
     private static void theatreMenu(String[][] cinema, String openSeat, int rows, int seats) {
         Scanner scanner = new Scanner(System.in);
 
-        int menuSelect = 0;
+        int menuSelect;
 
         do {
             System.out.println();
@@ -36,7 +36,7 @@ public class Cinema {
 
             switch (menuSelect) {
                 case 1:
-                    printSeat(cinema, rows, seats, openSeat);
+                    printSeat(cinema, seats);
                     break;
                 case 2:
                     /*initializing the updated array to the buy seat method so the array can be updated
@@ -55,14 +55,13 @@ public class Cinema {
         } while (menuSelect != 0);
     }
 
-    private static void printSeat(String [][] cinemaUpdated, int rows, int seats, String openSeat) {
+    private static void printSeat(String [][] cinemaUpdated, int seats) {
         int a = 0;
-        int seats1 = seats;
         System.out.println();
         System.out.println("Cinema:");
         System.out.print(" ");
 
-        while(a < seats1){
+        while(a < seats){
             // prints out the number of seats
             System.out.print(" " + (a + 1));
             a++;
@@ -85,8 +84,8 @@ public class Cinema {
     }
 
     private static String[][] buySeat(String [][] cinemaUpdated, int rows, int seats, String openSeat) {
-        int rowNum = 0;
-        int seatNum = 0;
+        int rowNum;
+        int seatNum;
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a row number:");
         rowNum = input.nextInt();
@@ -134,12 +133,11 @@ public class Cinema {
         }
         System.out.println();
         int a = 0;
-        int seats1 = seats;
         System.out.println();
         System.out.println("Cinema:");
         System.out.print(" ");
 
-        while(a < seats1){
+        while(a < seats){
             // prints out the number of seats
             System.out.print(" " + (a + 1));
             a++;
@@ -188,7 +186,7 @@ public class Cinema {
         int totalPrice = 0;
         int currentIncome = 0;
         int purchased = 0;
-        double percentage = 0;
+        double percentage;
 
         // calculating the number of tickets sold & the current income of the tickets sold
         for (int i = 0; i < cinema.length; i++) {
